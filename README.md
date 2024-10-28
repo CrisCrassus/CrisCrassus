@@ -1,5 +1,3 @@
----
-
 ### 🌐 Frontend Development
 - **Languages & Frameworks**: JavaScript, Vue 3, Livewire
 - **Styling**: Tailwind CSS, SaSS, CSS
@@ -17,5 +15,3 @@
 ### 🛠️ Testing
 - **End-to-End Testing**: Cypress
 - **Unit Testing**: PHP Unit
-
----
