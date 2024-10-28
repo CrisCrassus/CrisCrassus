@@ -1,16 +1,25 @@
-## Hi there 👋
+🚀 **Full-Stack Developer**
 
-<!--
-**CrisCrassus/CrisCrassus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🌐 Frontend Development
+- **Languages & Frameworks**: JavaScript, Vue 3, Livewire
+- **Styling**: Tailwind CSS, SaSS, CSS
+- **UI Libraries**: Filament
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Backend Development
+- **Languages & Frameworks**: PHP (7.4 - 8.3), Laravel
+- **Database Management**: MySQL, PostgreSQL
+
+### 💻 DevOps & Server Management
+- **Operating Systems**: Linux (Ubuntu & Debian)
+- **Cloud**: Azure Fundementals Cert., AWS Professional Experience
+- **Server Management**: Configuration, Security, Performance Optimization, Nginx
+
+### 🛠️ Testing
+- **End-to-End Testing**: Cypress
+- **Unit Testing**: PHP Unit
+
+---
+
+🔹 **Passionate about building efficient, scalable applications with clean code and best practices in mind.**
