@@ -1,5 +1,3 @@
-🚀 **Full-Stack Developer**
-
 ---
 
 ### 🌐 Frontend Development
@@ -21,5 +19,3 @@
 - **Unit Testing**: PHP Unit
 
 ---
-
-🔹 **Passionate about building efficient, scalable applications with clean code and best practices in mind.**
