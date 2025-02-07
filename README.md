@@ -28,6 +28,7 @@
 ### **Environment**
 - Windows WSL (Ubuntu)
 - JetBrains Ecosystem (PHPStorm, WebStorm, DataGrip)
+- Experience with AWS Cloud9
 - Sometimes GitFork
   
 ## 📚 Currently Learning
