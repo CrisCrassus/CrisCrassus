@@ -10,18 +10,17 @@
 
 ### **Frontend Development**
 - **Languages & Frameworks**: Vue.js, Alpine.js
-- **Styling**: Tailwind CSS
-- **Testing**: Cypress Testing Suite
+- **Styling**: Tailwind CSS, SASS
+- **Testing**: Cypress Testing Suite, PHP Unit
 
 ### **DevOps & Tools**
-- **Version Control**: Git & GitHub
-- **Hosting & Infrastructure**: DigitalOcean, AWS
-- **CI/CD**: Deployment Strategies & Automation
+- **Version Control**: Git & GitHub, Bitbucket
+- **Hosting & Infrastructure**: DigitalOcean, AWS, Dreamhsot Web-Management, Jenkins
+- **CI/CD**: Github Deployment, Custom Deployment Script Building
 
 ### **Software Development Practices**
 - **Methodologies**: Agile & Scrum
-- **Testing**: Test-Driven Development (TDD)
-- **Best Practices**: Code Documentation & Clean Code
+- **Project Management**: JIRA
 
 ## 📚 Currently Learning
 - Rust
