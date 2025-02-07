@@ -5,7 +5,7 @@
 ### **Backend Development**
 - **Languages & Frameworks**: PHP (7+), Laravel (8-11), Livewire, Filament
 - **Databases**: MySQL, PostgreSQL
-- **APIs**: REST API Development
+- **APIs**: REST API Development in Laravel, Postman
 - **Infrastructure**: Linux (Ubuntu), AWS (EC2 Management)
 
 ### **Frontend Development**
