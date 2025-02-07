@@ -25,6 +25,11 @@
 - **Methodologies**: Agile & Scrum
 - **Project Management**: JIRA
 
+### **Environment**
+- Windows WSL (Ubuntu)
+- JetBrains Ecosystem (PHPStorm, WebStorm, DataGrip)
+- Sometimes GitFork
+  
 ## 📚 Currently Learning
 - Rust
 - GraphQL Integration
