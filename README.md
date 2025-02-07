@@ -24,6 +24,6 @@
 - **Best Practices**: Code Documentation & Clean Code
 
 ## 📚 Currently Learning
-- Python & Rust
+- Rust
 - GraphQL Integration
 - LangChain for AI-powered applications
