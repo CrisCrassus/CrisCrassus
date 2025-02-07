@@ -1,17 +1,29 @@
-### 🌐 Frontend Development
-- **Languages & Frameworks**: JavaScript, Vue 3, Livewire
-- **Styling**: Tailwind CSS, SaSS, CSS
-- **UI Libraries**: Filament
+🚀 Full-stack web developer passionate about building secure, efficient, and scalable web applications. I specialize in Laravel, Vue.js, and API development, with a strong focus on scalability and performance.
 
-### 🔧 Backend Development
-- **Languages & Frameworks**: PHP (7.4 - 8.3), Laravel
-- **Database Management**: MySQL, PostgreSQL
+## 🔧 Tech Stack & Expertise
 
-### 💻 DevOps & Server Management
-- **Operating Systems**: Linux (Ubuntu & Debian)
-- **Cloud**: Azure Fundementals Cert., AWS Professional Experience
-- **Server Management**: Configuration, Security, Performance Optimization, Nginx
+### **Backend Development**
+- **Languages & Frameworks**: PHP (7+), Laravel (8-11), Livewire, Filament
+- **Databases**: MySQL, PostgreSQL
+- **APIs**: REST API Development
+- **Infrastructure**: Linux (Ubuntu), AWS (EC2 Management)
 
-### 🛠️ Testing
-- **End-to-End Testing**: Cypress
-- **Unit Testing**: PHP Unit
+### **Frontend Development**
+- **Languages & Frameworks**: Vue.js, Alpine.js
+- **Styling**: Tailwind CSS
+- **Testing**: Cypress Testing Suite
+
+### **DevOps & Tools**
+- **Version Control**: Git & GitHub
+- **Hosting & Infrastructure**: DigitalOcean, AWS
+- **CI/CD**: Deployment Strategies & Automation
+
+### **Software Development Practices**
+- **Methodologies**: Agile & Scrum
+- **Testing**: Test-Driven Development (TDD)
+- **Best Practices**: Code Documentation & Clean Code
+
+## 📚 Currently Learning
+- Python & Rust
+- GraphQL Integration
+- LangChain for AI-powered applications
