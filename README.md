@@ -11,7 +11,7 @@
 - **Infrastructure**: Linux (Ubuntu), AWS (EC2 Management)
 
 ### **Frontend Development**
-- **Languages & Frameworks**: Vue.js, Alpine.js
+- **Languages & Frameworks**: JS, AJAX, Vue.js, Alpine.js
 - **UI Packages**: PrimeVue
 - **Styling**: Tailwind CSS, SASS
 - **Testing**: Cypress Testing Suite, PHP Unit
