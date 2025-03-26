@@ -5,7 +5,7 @@
 ### **Backend Development**
 - **Languages & Frameworks**: PHP (7+), Laravel (8-11), Livewire
 - **Laravel Packages**: Sanctum, Cashier, Horizon, Forge, ImageIntervention, Filament
-- **Public APIs**: NHS API, OpenAI, WeatherStack
+- **Public APIs**: NHS API, OpenAI, WeatherStack, GoogleDev, CarDetails
 - **Databases**: MySQL, PostgreSQL
 - **APIs**: REST API Development in Laravel, Postman
 - **Infrastructure**: Linux (Ubuntu), AWS (EC2 Management)
