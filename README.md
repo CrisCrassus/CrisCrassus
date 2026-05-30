@@ -1,4 +1,4 @@
-🚀 Full-stack web developer passionate about building secure, efficient, and scalable web applications. I specialize in Laravel, Vue.js, and API development, with a strong focus on scalability and performance.
+🚀 Full-stack web developer passionate about building secure, efficient, and scalable web applications. I specialize in Laravel, Vue.js, and API development.
 
 ## 🔧 Tech Stack & Expertise
 
